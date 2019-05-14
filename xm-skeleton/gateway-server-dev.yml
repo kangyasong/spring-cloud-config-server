@@ -1,5 +1,5 @@
 server:
-  port: 30001
+  port: 10003
   
 micro-server:
   user-server: lb://user-server
